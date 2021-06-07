@@ -1,0 +1,6 @@
+https://www.w3.org/Graphics/GIF/spec-gif89a.txt
+
+
+test gifs:
+  test1: https://media.tenor.com/images/b42b4290676846ad1fc393ca9f7d3122/tenor.gif
+  test2: https://i.giphy.com/media/l0IyajjbNiRvCr7RC/source.gif
